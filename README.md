@@ -1,2 +1,2 @@
-# _mfgdj_
-My Fullstack Go Developer Journey
+# My Fullstack Go Developer Journey
+
