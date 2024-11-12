@@ -11,13 +11,15 @@
     - Variables, and 
     - Structure of a C program.
     ```
-3. Task:- 
+3. Lesson Notes
+
+4. Task:- 
     Write a "Hello, World!" program in C, compile and run the code - 
     ```
     gcc 1-hello.c -o hello
     ./hello
     ```   
-4. Resource materials:-
+5. Resource materials:-
     > a) 
 
     > b) 
